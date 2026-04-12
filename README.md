@@ -30,7 +30,7 @@ I have opened 0 issues and submitted 1 pull requests.
   </summary>
 
 <br>
-Operating systems
+Operating Systems
 <br>
 <a href="https://archlinux.org/" style="display:flex;flex-direction:row;align-content:center; text-align: center;" align="center"><img src="https://skillicons.dev/icons?i=linux" /><span>Arch Linux</span></a><br>
 <br>
