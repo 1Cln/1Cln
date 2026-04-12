@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Colin, Otherwise known as Cln 👋</h1>
-<h3 align="center">I'm a 23-year-old fullstack developer from The Netherlands. Currently most of my code is to be found here on Github and Gitea, most project are being moved to Gitea from GitHub due to the Terms of Service stating that code may be collected for their AI model.</h3>
+<h3 align="center">I'm a 23-year-old fullstack developer from The Netherlands.</h3>
+<h5 align="center">My projects used to be developed on Github, but have been moved to Gitea.</h5>
 <p align="center">
 <details> 
   <summary>
