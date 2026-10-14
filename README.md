@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Colin, Otherwise known as Cln 👋</h1>
-<h3 align="center">I'm a 23-year-old fullstack developer from The Netherlands.</h3>
-<h5 align="center">My projects used to be developed on Github, but have been moved to Gitea.</h5>
+<h3 align="center">I'm a 20-ish-year-old fullstack developer from The Netherlands.</h3>
+<h5 align="center">My projects used to be developed on Github, but have been moved to Gitea and Forgejo.</h5>
 <p align="center">
 <details> 
   <summary>
      <kbd><h3>View Metrics</h3></kbd>
   </summary>
-Joined Github 5 years ago.
+Joined Github 9 years ago.
 <br/>
 Currently I have pushed 262 commits, 0 from 4 personal projects and contributed to 0.
 <br/>
